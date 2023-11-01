@@ -34,3 +34,4 @@ In this lab, you will add error handling and plotting functionality to an existi
 
 To introduce object-oriented programming, we will look at a computational problem from modern molecular biology. In DNA sequence analysis, we sometimes want to know how much overlap thereis between two sequences (simplified: how much DNA they have in common). You will write simple object-oriented code to support such an analysis.
 
+<meta name="google-site-verification" content="VH0a4ANctIhOSsajlk8OYrFdTR1GTRzhOh9S2L3_Z28" />
